@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">PDF Play</title>
+  <rect width="512" height="512" rx="112" fill="#1e3a8a"/>
+  <path fill="#fbbf24" d="M342 88H186c-19 0-34 15-34 34v268c0 19 15 34 34 34h204c19 0 34-15 34-34V170z"/>
+  <path fill="#fff" d="M342 88v82h82z" opacity=".95"/>
+  <path fill="#1e3a8a" d="M212 250h-28v112h28v-38h32c32 0 52-15 52-38 0-23-20-36-52-36h-32zm0 22h31c15 0 25 5 25 15s-10 16-25 16h-31v-31zm94-22h28v112h-28z"/>
+</svg>
